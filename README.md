@@ -16,4 +16,4 @@
 ## 완성된 사이트
 [Todo App](https://vibrant-tesla-c993fc.netlify.app/#/todos/all)
 
-![todo](./todoappcapture.png)
+![todo](./assets/todoappcapture.png)
